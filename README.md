@@ -4,6 +4,7 @@
 
 *A Minecraft server plugin for paper-based servers to manage your server with various integrations, highly configurable and multi-language support.*
 
+[![CodeFactor](https://www.codefactor.io/repository/github/gerrxt07/cloudly/badge)](https://www.codefactor.io/repository/github/gerrxt07/cloudly)
 ---
 
 ## ✨ Our Features
@@ -12,7 +13,7 @@
 - 📋 Highly configurable through config, language files and more
 - 🎮 Support for Minecraft 1.21.1+
 - ☕ Compatible with Java 21+
-- 🛡️ Modern standards for security and stability
+- 🛡️ Modern standards for security, stability and [quality](https://www.codefactor.io/repository/github/gerrxt07/cloudly)
 
 ## 📋 Requirements
 
