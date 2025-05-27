@@ -1,0 +1,7 @@
+name: Cloudly
+version: '${project.version}'
+main: de.cloudly.Main
+api-version: '1.21'
+description: A Minecraft Paper plugin
+author: Gerrxt
+website: https://github.com/gerrxt07/cloudly
